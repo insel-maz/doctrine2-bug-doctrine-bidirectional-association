@@ -1,0 +1,9 @@
+{
+    "name": "insel-maz/doctrine2-bug-doctrine-bidirectional-association",
+    "require": {
+        "doctrine/orm": "^2.5"
+    },
+    "autoload": {
+        "psr-0": {"": "src/"}
+    }
+}
